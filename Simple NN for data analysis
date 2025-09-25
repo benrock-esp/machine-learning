@@ -28,9 +28,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "## Task: Predict the median value of houses of california houses using NN (regression)\n",
-        "\n",
-        "You are provided with the code to load california housing dataset.\n",
+        "Predicting the median value of houses of california houses using NN (regression)\n",
         "\n",
         "The dataset contains the following features about houses.\n",
         "\n",
@@ -42,12 +40,6 @@
         "- AveOccup: Average household occupancy.\n",
         "- Latitude: Latitude coordinate for the district.\n",
         "- Longitude: Longitude coordinate for the district.\n",
-        "\n",
-        "As for the predicted values, the target is median values of the houses.\n",
-        "\n",
-        "Your task is to train a **Neural Network** which takes the features about a house and output it's median value.\n",
-        "\n",
-        "Make sure to put emphasis on code quality and to include a measure of how well your final model is performing on untrained data."
       ],
       "metadata": {
         "id": "iF8BecbF-sYi"
